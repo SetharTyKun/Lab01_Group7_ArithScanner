@@ -1,0 +1,9 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+IDENTIFIER   total        1      1
+ASSIGN       =            1      6
+DECIMAL      12.5         1      7
+PLUS         +            1      11
+IDENTIFIER   qty          1      12
+STAR         *            1      15
+INTEGER      2            1      16
+SEMICOLON    ;            1      17

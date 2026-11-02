@@ -1,0 +1,7 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+IDENTIFIER   rate         1      1
+ASSIGN       =            1      5
+INTEGER      7            1      6
+ERROR        #            1      7
+INTEGER      2            1      8
+SEMICOLON    ;            1      9

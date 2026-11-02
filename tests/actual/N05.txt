@@ -1,0 +1,11 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+IDENTIFIER   total_cost   1      1
+ASSIGN       =            1      11
+LPAREN       (            1      12
+IDENTIFIER   unit_price   1      13
+MINUS        -            1      23
+IDENTIFIER   discount     1      24
+RPAREN       )            1      32
+SLASH        /            1      33
+IDENTIFIER   qty          1      34
+SEMICOLON    ;            1      37

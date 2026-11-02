@@ -1,0 +1,6 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+IDENTIFIER   a            1      1
+GE           >=           1      2
+IDENTIFIER   b            1      4
+GT           >            1      5
+IDENTIFIER   c            1      6

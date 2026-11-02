@@ -1,0 +1,17 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+IDENTIFIER   result       1      1
+ASSIGN       =            1      7
+LPAREN       (            1      8
+IDENTIFIER   a            1      9
+PLUS         +            1      10
+IDENTIFIER   b            1      11
+RPAREN       )            1      12
+STAR         *            1      13
+LPAREN       (            1      14
+IDENTIFIER   c            1      15
+MINUS        -            1      16
+IDENTIFIER   d            1      17
+RPAREN       )            1      18
+SLASH        /            1      19
+INTEGER      2            1      20
+SEMICOLON    ;            1      21

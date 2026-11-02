@@ -1,0 +1,2 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+DECIMAL      12.5         1      1

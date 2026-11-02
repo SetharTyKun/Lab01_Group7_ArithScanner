@@ -1,0 +1,1 @@
+total_cost=(unit_price-discount)/qty;

@@ -1,0 +1,4 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+INTEGER      7            1      1
+ERROR        @            1      3
+INTEGER      8            1      5

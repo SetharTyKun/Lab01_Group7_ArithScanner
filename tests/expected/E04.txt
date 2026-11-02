@@ -1,0 +1,4 @@
+TOKEN TYPE   LEXEME       LINE   COLUMN
+ERROR        $            1      1
+ERROR        $            1      2
+ERROR        $            1      3
